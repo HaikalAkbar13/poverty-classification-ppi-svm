@@ -1,0 +1,565 @@
+Nama;Domisili;Jumlah Anggota Keluarga;Kepemilikan Tabungan;Bahan Lantai;Konsumsi Daging;Konsumsi Nasi;Pengeluaran untuk Sandang;Pengeluaran untuk Bahan Bakar;Kepimilikan Kulkas;Kepimilikan Kendaraan Mobil;Jumlah Skor Akhir;Prob Poverty;Jumlah Pengeluaran Bulanan;Label;Label Encoded
+Arbitha Mawaddah M.;5;24;0;5;0;8.0;7;9;0;0;58.0;1;350000;Miskin;1
+Alethea randy;5;15;6;7;8;8.0;7;0;7;0;63.0;1;700000;Tidak Miskin;0
+Juliana;5;9;6;0;8;8.0;7;9;7;11;70.0;0;650000;Tidak Miskin;0
+Pupung;5;15;6;5;8;8.0;7;9;7;11;81.0;0;450000;Miskin;1
+A.Syahrani Ariyani;5;0;6;5;8;8.0;7;9;7;11;66.0;0;650000;Tidak Miskin;0
+Febrianti;5;0;6;0;8;8.0;7;9;7;0;50.0;2;400000;Miskin;1
+RESQY ANNISA PUTRY ADITHA;5;0;6;0;8;8.0;0;0;7;11;45.0;4;400000;Miskin;1
+Suaebah;5;0;6;7;0;8.0;7;9;7;0;49.0;2;550000;Tidak Miskin;0
+Putry;5;9;6;7;8;8.0;7;9;7;11;77.0;0;650000;Tidak Miskin;0
+Ajrina Rizki Yahyah;5;15;6;7;8;8.0;7;9;7;11;83.0;0;350000;Miskin;1
+Anugrah P ;5;24;6;7;8;8.0;7;0;0;0;65.0;0;400000;Miskin;1
+NURHAYATI;5;15;6;0;8;8.0;7;9;7;11;76.0;0;450000;Miskin;1
+Nindar rahmawati;5;9;0;0;0;8.0;0;9;7;0;38.0;8;400000;Miskin;1
+Syamsuriana;5;0;6;0;8;8.0;7;9;7;0;50.0;2;400000;Miskin;1
+Idil Arafah;5;15;6;7;8;8.0;7;9;7;11;83.0;0;550000;Tidak Miskin;0
+Nursyam Suryani, S.Sos,M.M;5;9;6;7;8;8.0;7;9;7;0;66.0;0;500000;Tidak Miskin;0
+Andi Hardianti ;5;15;6;7;0;8.0;7;9;7;11;75.0;0;400000;Miskin;1
+St. Syamsuriani Barandy;5;0;6;7;8;8.0;7;9;7;11;68.0;0;350000;Miskin;1
+Nurlinda;5;15;6;0;8;8.0;7;9;7;0;65.0;0;600000;Tidak Miskin;0
+Sukmawati;5;0;0;0;8;8.0;7;9;7;0;44.0;4;350000;Miskin;1
+arya;5;15;6;7;8;8.0;7;9;7;11;83.0;0;600000;Tidak Miskin;0
+Jumriani b;5;15;0;0;0;0.0;7;9;7;0;43.0;5;350000;Miskin;1
+Rifdah Athirah ;5;15;6;0;8;8.0;7;9;7;0;65.0;0;500000;Tidak Miskin;0
+NURJANNAH;5;9;6;7;0;8.0;7;9;7;0;58.0;1;450000;Miskin;1
+Harmita;5;9;6;0;0;8.0;7;9;7;0;51.0;2;700000;Tidak Miskin;0
+Khaerun Nisa;5;0;6;7;8;8.0;7;9;7;0;57.0;1;700000;Tidak Miskin;0
+Fauzi Arfah ;5;15;6;7;0;8.0;7;9;7;11;75.0;0;600000;Tidak Miskin;0
+Asriany;5;0;0;0;0;8.0;7;9;7;0;36.0;9;750000;Tidak Miskin;0
+Sasmita;5;0;6;7;8;8.0;7;9;7;0;57.0;1;700000;Tidak Miskin;0
+Mahatir M;5;0;6;7;8;8.0;7;9;7;11;68.0;0;400000;Miskin;1
+Hendra Sam, SH;5;9;6;7;8;8.0;7;9;7;0;66.0;0;500000;Tidak Miskin;0
+Nur Mufliha;5;15;6;0;0;8.0;7;9;7;0;57.0;1;800000;Tidak Miskin;0
+indah islamia ;5;0;6;7;8;8.0;7;0;7;11;59.0;1;650000;Tidak Miskin;0
+Nur Aprillah ;5;24;0;5;0;8.0;7;0;7;0;56.0;1;450000;Miskin;1
+Arfan nur;5;9;6;7;0;8.0;7;9;7;11;69.0;0;600000;Tidak Miskin;0
+Ismail H.J;5;9;6;7;0;8.0;7;9;7;0;58.0;1;400000;Miskin;1
+Fahri Indrawan;5;15;6;7;8;8.0;7;9;7;11;83.0;0;500000;Tidak Miskin;0
+Ian Saputra;5;24;6;7;8;8.0;7;9;7;11;92.0;0;400000;Miskin;1
+Iin Putri S;5;15;6;7;8;8.0;7;9;7;0;72.0;0;800000;Tidak Miskin;0
+Nur Saddang;5;24;6;7;8;8.0;7;9;7;0;81.0;0;400000;Miskin;1
+Edward Putra;5;15;6;7;0;8.0;7;9;7;0;64.0;0;400000;Miskin;1
+Ivan Maulana;5;0;6;0;8;8.0;0;9;7;0;43.0;5;600000;Tidak Miskin;0
+Veronica Salsabila;5;15;0;0;0;0.0;7;0;7;11;45.0;4;600000;Tidak Miskin;0
+Mira Anjani;5;0;6;0;0;8.0;7;0;7;11;44.0;4;500000;Tidak Miskin;0
+Mahesa Santoso;5;9;0;5;0;8.0;7;0;7;11;52.0;2;600000;Tidak Miskin;0
+Bella Mulyani;5;9;0;5;0;8.0;7;9;7;11;61.0;1;450000;Miskin;1
+Uli Suryani;5;15;0;7;8;8.0;0;9;0;11;63.0;1;550000;Tidak Miskin;0
+Utari Andriani;5;0;0;7;8;8.0;7;9;7;0;51.0;2;700000;Tidak Miskin;0
+Rian Adiputra;5;9;6;5;0;0.0;7;9;7;11;59.0;1;450000;Miskin;1
+Faris Ariyanto;5;15;0;7;8;8.0;7;9;0;11;70.0;0;400000;Miskin;1
+Rizky Ridwan;5;15;6;5;8;8.0;7;0;0;0;54.0;1;700000;Tidak Miskin;0
+Ivan Saputra;5;0;0;7;0;0.0;7;9;7;0;35.0;10;800000;Tidak Miskin;0
+Julian Maulana;5;0;6;0;0;8.0;0;9;7;11;46.0;3;350000;Miskin;1
+Yuni Permata;5;15;0;0;0;8.0;7;0;7;11;53.0;2;350000;Miskin;1
+Galih Mahendra;5;24;6;7;0;0.0;7;0;0;0;49.0;2;550000;Tidak Miskin;0
+Tiara Amanah;5;15;0;5;0;8.0;7;0;7;0;47.0;3;700000;Tidak Miskin;0
+Rafi Rahardian;5;15;0;5;0;8.0;7;9;7;0;56.0;1;450000;Miskin;1
+Rizky Permadi;5;15;6;0;0;8.0;7;0;0;0;41.0;6;650000;Tidak Miskin;0
+Gisella Andayani;5;24;6;0;8;8.0;0;0;7;0;58.0;1;700000;Tidak Miskin;0
+Taufik Syahputra;5;9;6;5;8;8.0;7;0;7;11;66.0;0;550000;Tidak Miskin;0
+Amara Septiani;5;24;6;0;0;8.0;7;0;0;0;50.0;2;750000;Tidak Miskin;0
+Rama Ariyanto;5;15;6;0;8;8.0;7;0;0;11;60.0;1;500000;Tidak Miskin;0
+Faris Gunawan;5;9;0;0;8;8.0;7;9;0;11;57.0;1;600000;Tidak Miskin;0
+Hanif Rahardian;5;9;0;7;8;0.0;7;9;0;0;45.0;4;350000;Miskin;1
+Daniel Santoso;5;9;0;7;0;8.0;7;0;0;11;47.0;3;750000;Tidak Miskin;0
+Syahrul Ariyanto;5;0;0;5;0;8.0;0;9;7;0;34.0;11;750000;Tidak Miskin;0
+Aurora Rosalina;5;9;0;0;0;0.0;0;9;0;0;23.0;30;650000;Tidak Miskin;0
+Putri Astuti;5;9;0;0;0;0.0;7;9;7;0;37.0;8;700000;Tidak Miskin;0
+Fahri Wibowo;5;9;0;0;0;8.0;0;0;0;0;22.0;32;550000;Tidak Miskin;0
+Fajar Prasetyo;5;0;0;0;0;8.0;7;9;7;0;36.0;9;400000;Miskin;1
+Mira Rahmayanti;5;9;6;5;0;8.0;7;9;0;0;49.0;2;650000;Tidak Miskin;0
+Rama Syahputra;5;9;0;0;8;8.0;7;0;0;0;37.0;8;800000;Tidak Miskin;0
+Yoga Hakim;5;0;6;5;8;8.0;7;9;0;11;59.0;1;350000;Miskin;1
+Citra Rosalina;5;15;0;5;0;0.0;7;9;7;0;48.0;3;400000;Miskin;1
+Fahri Maulana;5;9;0;7;0;0.0;7;9;7;0;44.0;4;600000;Tidak Miskin;0
+Aditya Hartono;5;0;0;5;0;8.0;7;9;0;0;34.0;11;550000;Tidak Miskin;0
+Satria Wicaksono;5;9;0;0;0;0.0;7;9;7;11;48.0;3;400000;Miskin;1
+Hanif Ardian;5;9;0;7;8;0.0;7;9;7;0;52.0;2;350000;Miskin;1
+Livia Rahmayanti;5;9;0;7;8;8.0;7;9;0;11;64.0;0;550000;Tidak Miskin;0
+Elisa Cahyani;5;15;0;5;8;8.0;7;9;0;0;57.0;1;700000;Tidak Miskin;0
+Dimas Cahyono;5;24;0;0;8;8.0;7;0;7;0;59.0;1;400000;Miskin;1
+Michael Maulana;5;9;0;0;0;0.0;7;0;7;11;39.0;7;400000;Miskin;1
+Nanda Wirawan;5;15;0;5;0;8.0;7;0;0;0;40.0;6;650000;Tidak Miskin;0
+Yuni Permata;5;15;0;5;0;8.0;0;0;7;0;40.0;6;450000;Miskin;1
+Citra Ayuningrum;5;15;0;7;0;8.0;7;9;7;11;69.0;0;350000;Miskin;1
+Aurora Saputri;5;9;0;0;0;8.0;7;0;0;11;40.0;6;600000;Tidak Miskin;0
+Lutfi Lesmana;5;9;6;0;0;8.0;7;9;0;11;55.0;1;500000;Tidak Miskin;0
+Bima Wibisono;5;9;0;5;8;8.0;0;0;7;11;53.0;2;750000;Tidak Miskin;0
+Zara Syafira;5;0;0;0;8;0.0;7;9;7;11;47.0;3;350000;Miskin;1
+Amara Indrawati;5;0;0;5;8;0.0;0;0;0;11;29.0;18;600000;Tidak Miskin;0
+Yoga Saputra;5;24;0;7;0;8.0;0;9;0;0;53.0;2;400000;Miskin;1
+Lutfi Pratama;5;24;0;7;8;8.0;7;9;7;0;75.0;0;700000;Tidak Miskin;0
+Naufal Farhan;5;15;0;5;0;8.0;7;9;0;0;49.0;2;400000;Miskin;1
+Tania Syafira;5;9;0;0;0;8.0;0;9;0;0;31.0;15;350000;Miskin;1
+Putri Widyasari;5;9;0;5;8;8.0;7;9;7;0;58.0;1;500000;Tidak Miskin;0
+Putri Syafira;5;15;0;5;0;8.0;0;0;7;11;51.0;2;400000;Miskin;1
+Dina Lestari;5;9;0;5;0;8.0;7;0;7;11;52.0;2;650000;Tidak Miskin;0
+Julian Maulana;5;0;6;0;0;8.0;0;9;7;11;46.0;3;350000;Miskin;1
+Yuni Permata;5;15;0;0;0;8.0;7;0;7;11;53.0;2;700000;Tidak Miskin;0
+Galih Mahendra;5;24;6;7;0;0.0;7;0;0;0;49.0;2;600000;Tidak Miskin;0
+Tiara Amanah;5;15;0;5;0;8.0;7;0;7;0;47.0;3;700000;Tidak Miskin;0
+Rafi Rahardian;5;15;0;5;0;8.0;7;9;7;0;56.0;1;400000;Miskin;1
+Rizky Permadi;5;15;6;0;0;8.0;7;0;0;0;41.0;6;500000;Tidak Miskin;0
+Gisella Andayani;5;24;6;0;8;8.0;0;0;7;0;58.0;1;450000;Miskin;1
+Taufik Syahputra;5;9;6;5;8;8.0;7;0;7;11;66.0;0;600000;Tidak Miskin;0
+Amara Septiani;5;24;6;0;0;8.0;7;0;0;0;50.0;2;700000;Tidak Miskin;0
+Rama Ariyanto;5;15;6;0;8;8.0;7;0;0;11;60.0;1;550000;Tidak Miskin;0
+Faris Gunawan;5;9;0;0;8;8.0;7;9;0;11;57.0;1;800000;Tidak Miskin;0
+Hanif Rahardian;5;9;0;7;8;0.0;7;9;0;0;45.0;4;600000;Tidak Miskin;0
+Daniel Santoso;5;9;0;7;0;8.0;7;0;0;11;47.0;3;650000;Tidak Miskin;0
+Syahrul Ariyanto;5;0;0;5;0;8.0;0;9;7;0;34.0;11;450000;Miskin;1
+Aurora Rosalina;5;9;0;0;0;0.0;0;9;0;0;23.0;30;650000;Tidak Miskin;0
+Putri Astuti;5;9;0;0;0;0.0;7;9;7;0;37.0;8;400000;Miskin;1
+Fahri Wibowo;5;9;0;0;0;8.0;0;0;0;0;22.0;32;450000;Miskin;1
+Fajar Prasetyo;5;0;0;0;0;8.0;7;9;7;0;36.0;9;700000;Tidak Miskin;0
+Mira Rahmayanti;5;9;6;5;0;8.0;7;9;0;0;49.0;2;350000;Miskin;1
+Rama Syahputra;5;9;0;0;8;8.0;7;0;0;0;37.0;8;750000;Tidak Miskin;0
+Yoga Hakim;5;0;6;5;8;8.0;7;9;0;11;59.0;1;450000;Miskin;1
+Citra Rosalina;5;15;0;5;0;0.0;7;9;7;0;48.0;3;400000;Miskin;1
+Fahri Maulana;5;9;0;7;0;0.0;7;9;7;0;44.0;4;500000;Tidak Miskin;0
+Aditya Hartono;5;0;0;5;0;8.0;7;9;0;0;34.0;11;650000;Tidak Miskin;0
+Satria Wicaksono;5;9;0;0;0;0.0;7;9;7;11;48.0;3;600000;Tidak Miskin;0
+Hanif Ardian;5;9;0;7;8;0.0;7;9;7;0;52.0;2;400000;Miskin;1
+Livia Rahmayanti;5;9;0;7;8;8.0;7;9;0;11;64.0;0;700000;Tidak Miskin;0
+Elisa Cahyani;5;15;0;5;8;8.0;7;9;0;0;57.0;1;800000;Tidak Miskin;0
+Dimas Cahyono;5;24;0;0;8;8.0;7;0;7;0;59.0;1;650000;Tidak Miskin;0
+Michael Maulana;5;9;0;0;0;0.0;7;0;7;11;39.0;7;400000;Miskin;1
+Nanda Wirawan;5;15;0;5;0;8.0;7;0;0;0;40.0;6;650000;Tidak Miskin;0
+Yuni Permata;5;15;0;5;0;8.0;0;0;7;0;40.0;6;550000;Tidak Miskin;0
+Citra Ayuningrum;5;15;0;7;0;8.0;7;9;7;11;69.0;0;400000;Miskin;1
+Aurora Saputri;5;9;0;0;0;8.0;7;0;0;11;40.0;6;550000;Tidak Miskin;0
+Lutfi Lesmana;5;9;6;0;0;8.0;7;9;0;11;55.0;1;500000;Tidak Miskin;0
+Bima Wibisono;5;9;0;5;8;8.0;0;0;7;11;53.0;2;600000;Tidak Miskin;0
+Zara Syafira;5;0;0;0;8;0.0;7;9;7;11;47.0;3;650000;Tidak Miskin;0
+Amara Indrawati;5;0;0;5;8;0.0;0;0;0;11;29.0;18;400000;Miskin;1
+Yoga Saputra;5;24;0;7;0;8.0;0;9;0;0;53.0;2;650000;Tidak Miskin;0
+Lutfi Pratama;5;24;0;7;8;8.0;7;9;7;0;75.0;0;800000;Tidak Miskin;0
+Naufal Farhan;5;15;0;5;0;8.0;7;9;0;0;49.0;2;450000;Miskin;1
+Tania Syafira;5;9;0;0;0;8.0;0;9;0;0;31.0;15;550000;Tidak Miskin;0
+Putri Widyasari;5;9;0;5;8;8.0;7;9;7;0;58.0;1;350000;Miskin;1
+Putri Syafira;5;15;0;5;0;8.0;0;0;7;11;51.0;2;550000;Tidak Miskin;0
+Dina Lestari;5;9;0;5;0;8.0;7;0;7;11;52.0;2;650000;Tidak Miskin;0
+Qiana Fitria;5;0;0;5;0;0.0;7;0;0;11;28.0;20;600000;Tidak Miskin;0
+Hana Rosalina;5;9;0;0;8;8.0;0;9;0;11;50.0;2;550000;Tidak Miskin;0
+Hanif Nugraha;5;24;0;0;0;8.0;7;9;0;0;53.0;2;500000;Tidak Miskin;0
+Elisa Paramitha;5;0;6;0;8;8.0;7;0;0;0;34.0;11;550000;Tidak Miskin;0
+Rian Wibisono;5;9;0;0;8;0.0;7;0;7;0;36.0;9;400000;Miskin;1
+Gisella Andriani;5;9;0;0;8;8.0;7;0;7;11;55.0;1;700000;Tidak Miskin;0
+Putri Indrawati;5;0;0;0;8;8.0;7;9;7;0;44.0;4;700000;Tidak Miskin;0
+Raisa Rosmala;5;15;0;0;8;0.0;0;0;0;0;28.0;20;500000;Tidak Miskin;0
+Julian Wirawan;5;9;6;7;0;8.0;7;0;0;0;42.0;5;800000;Tidak Miskin;0
+Bima Hidayat;5;0;6;0;0;8.0;7;0;0;11;37.0;8;750000;Tidak Miskin;0
+Darma Firmansyah;5;15;0;0;8;0.0;0;0;7;0;35.0;10;600000;Tidak Miskin;0
+Jasmine Putri;5;15;0;0;0;8.0;7;9;7;0;51.0;2;550000;Tidak Miskin;0
+Teguh Maulana;5;0;0;0;0;0.0;0;9;0;0;14.0;54;550000;Tidak Miskin;0
+Elisa Susilowati;5;9;0;5;0;8.0;0;0;7;0;34.0;11;650000;Tidak Miskin;0
+Hanif Nugraha;5;0;0;5;8;8.0;7;9;7;0;49.0;2;700000;Tidak Miskin;0
+Veronica Suhartini;5;15;6;0;0;8.0;7;0;7;0;48.0;3;400000;Miskin;1
+Eko Surya;5;9;6;5;8;8.0;7;9;0;0;57.0;1;800000;Tidak Miskin;0
+Fahri Simanjuntak;5;24;0;0;0;8.0;7;9;0;11;64.0;0;600000;Tidak Miskin;0
+Darma Febriansyah;5;0;0;5;0;8.0;7;9;7;11;52.0;2;400000;Miskin;1
+Ayu Wijayanti;5;9;6;7;0;8.0;0;0;7;11;53.0;2;800000;Tidak Miskin;0
+Oktaviani Kusumawati;5;9;6;5;0;8.0;7;0;0;0;40.0;6;400000;Miskin;1
+Sari Ayuningrum;5;9;0;5;0;8.0;7;0;7;0;41.0;6;700000;Tidak Miskin;0
+Daniel Purnama;5;9;0;0;8;0.0;7;9;7;11;56.0;1;550000;Tidak Miskin;0
+Rina Astuti;5;9;0;0;0;8.0;7;9;7;11;56.0;1;400000;Miskin;1
+Yoga Fadillah;5;15;0;0;0;0.0;7;0;0;11;38.0;8;700000;Tidak Miskin;0
+Dimas Nugraha;5;15;0;0;8;8.0;7;0;7;0;50.0;2;400000;Miskin;1
+Lutfi Pratama;5;9;0;7;0;8.0;0;0;7;11;47.0;3;600000;Tidak Miskin;0
+Taufik Pratama;5;24;0;0;8;8.0;0;0;0;0;45.0;4;650000;Tidak Miskin;0
+Lestari Pertiwi;5;24;0;5;0;0.0;7;9;7;0;57.0;1;400000;Miskin;1
+Yolanda Dwiyanti;5;15;6;5;0;0.0;0;0;7;0;38.0;8;750000;Tidak Miskin;0
+Winda Widyasari;5;15;0;5;0;0.0;7;9;7;0;48.0;3;750000;Tidak Miskin;0
+Prameswari Saputri;5;15;6;0;0;0.0;0;9;7;11;53.0;2;350000;Miskin;1
+Sari Nuraini;5;0;0;0;8;0.0;7;0;7;11;38.0;8;800000;Tidak Miskin;0
+Reza Rohman;5;0;6;0;0;0.0;7;9;7;0;34.0;11;700000;Tidak Miskin;0
+Prameswari Kirana;5;15;6;5;0;0.0;0;9;0;0;40.0;6;800000;Tidak Miskin;0
+Bayu Prasetyo;5;0;0;0;0;0.0;7;0;0;0;12.0;59;700000;Tidak Miskin;0
+Mira Anjani;5;24;6;7;0;8.0;7;0;0;0;57.0;1;700000;Tidak Miskin;0
+Hanif Rahardian;5;0;0;5;0;8.0;7;0;0;0;25.0;26;550000;Tidak Miskin;0
+Hanif Lesmana;5;9;0;5;0;0.0;0;9;0;0;28.0;20;600000;Tidak Miskin;0
+Bagus Febriansyah;5;24;0;5;0;0.0;0;0;0;11;45.0;4;400000;Miskin;1
+Lukman Kusuma;5;15;0;0;0;0.0;7;0;0;11;38.0;8;400000;Miskin;1
+Putra Ananda;5;0;0;5;8;0.0;7;9;7;0;41.0;6;550000;Tidak Miskin;0
+Indah Suhartini;5;0;6;5;0;0.0;7;9;7;11;50.0;2;600000;Tidak Miskin;0
+Wulan Nuraini;5;9;6;0;8;8.0;7;9;0;0;52.0;2;650000;Tidak Miskin;0
+Hanif Utomo;5;9;6;5;8;8.0;0;0;7;0;48.0;3;450000;Miskin;1
+Faris Gunawan;5;9;0;0;0;8.0;0;9;7;0;38.0;8;550000;Tidak Miskin;0
+Rina Astuti;5;24;0;0;8;8.0;0;9;7;0;61.0;1;400000;Miskin;1
+Hanif Wirawan;5;24;0;0;0;8.0;7;0;7;0;51.0;2;400000;Miskin;1
+Clara Septiani;5;15;0;0;0;8.0;7;9;7;11;62.0;1;650000;Tidak Miskin;0
+Rina Puspitasari;5;15;6;5;0;8.0;0;0;7;0;46.0;3;400000;Miskin;1
+Mira Fitria;5;9;0;7;8;0.0;7;0;7;11;54.0;1;400000;Miskin;1
+Erika Cahyani;5;9;6;5;8;8.0;0;0;0;0;41.0;6;600000;Tidak Miskin;0
+Satria Wicaksono;5;15;0;5;0;8.0;7;9;7;0;56.0;1;400000;Miskin;1
+Naufal Wijaya;5;24;0;0;0;8.0;7;9;0;0;53.0;2;500000;Tidak Miskin;0
+Vina Nuraini;5;24;0;7;8;0.0;0;0;0;0;44.0;4;400000;Miskin;1
+Michael Wijaya;5;9;0;0;0;8.0;7;0;0;0;29.0;18;350000;Miskin;1
+Oka Rahardian;5;15;6;7;0;0.0;7;0;7;0;47.0;3;650000;Tidak Miskin;0
+Livia Puspitasari;5;9;6;7;8;0.0;0;0;7;11;53.0;2;700000;Tidak Miskin;0
+Oktaviani Dwiyanti;5;15;0;0;0;8.0;7;9;7;0;51.0;2;700000;Tidak Miskin;0
+Prameswari Rosmala;5;15;0;5;0;8.0;7;0;0;0;40.0;6;700000;Tidak Miskin;0
+Arjuna Ramdani;5;9;0;5;0;8.0;7;9;0;0;43.0;5;350000;Miskin;1
+Dewi Ayuningrum;5;15;0;7;8;8.0;0;0;7;11;61.0;1;400000;Miskin;1
+Mira Setiawati;5;15;0;5;0;8.0;7;0;7;11;58.0;1;600000;Tidak Miskin;0
+Kevin Ananda;5;9;6;0;0;8.0;7;9;7;0;51.0;2;450000;Miskin;1
+Reza Rohman;5;15;6;7;0;0.0;7;9;0;0;49.0;2;600000;Tidak Miskin;0
+Bella Santika;5;15;0;0;0;0.0;7;9;7;11;54.0;1;600000;Tidak Miskin;0
+Uli Putri;5;15;6;7;0;8.0;7;9;0;11;68.0;0;400000;Miskin;1
+Daniel Gunarto;5;15;0;7;0;8.0;0;0;7;0;42.0;5;800000;Tidak Miskin;0
+Mira Sundari;5;15;0;5;0;8.0;7;0;7;0;47.0;3;550000;Tidak Miskin;0
+Gisella Utari;5;15;6;5;8;8.0;7;9;7;0;70.0;0;550000;Tidak Miskin;0
+Nadia Hidayani;5;24;6;0;8;8.0;7;9;0;0;67.0;0;600000;Tidak Miskin;0
+Daniel Santoso;5;0;0;7;0;0.0;7;9;0;0;28.0;20;750000;Tidak Miskin;0
+Melati Paramitha;5;9;0;0;8;0.0;7;9;7;11;56.0;1;650000;Tidak Miskin;0
+Gita Putri;5;9;0;7;0;0.0;7;9;0;0;37.0;8;400000;Miskin;1
+Anita Hartati;5;9;0;5;0;8.0;7;0;7;0;41.0;6;500000;Tidak Miskin;0
+Hilda Fadilah;5;0;0;0;0;8.0;0;9;7;0;29.0;18;400000;Miskin;1
+Elisa Utari;5;24;0;5;0;8.0;0;0;0;0;42.0;5;450000;Miskin;1
+Nadia Hidayani;5;24;0;5;0;0.0;0;9;7;0;50.0;2;550000;Tidak Miskin;0
+Satria Ariyanto;5;9;0;0;8;8.0;0;9;7;0;46.0;3;800000;Tidak Miskin;0
+Bayu Lesmana;5;15;6;7;0;8.0;7;0;7;11;66.0;0;550000;Tidak Miskin;0
+Zaki Susanto;5;0;0;5;0;0.0;7;9;7;11;44.0;4;500000;Tidak Miskin;0
+Winda Rahmawati;5;15;0;5;8;0.0;7;9;0;0;49.0;2;450000;Miskin;1
+Ayu Maheswari;5;15;0;0;0;0.0;7;9;7;0;43.0;5;450000;Miskin;1
+Qiana Fitria;5;15;0;5;8;8.0;0;9;0;0;50.0;2;700000;Tidak Miskin;0
+Aldo Purnama;5;0;6;7;0;8.0;7;9;0;0;42.0;5;400000;Miskin;1
+Bagus Farhan;5;9;0;5;0;8.0;7;9;7;0;50.0;2;450000;Miskin;1
+Qisya Suryani;5;0;0;5;0;0.0;0;9;0;11;30.0;17;550000;Tidak Miskin;0
+Mahesa Rohman;5;9;6;7;0;8.0;0;0;0;0;35.0;10;650000;Tidak Miskin;0
+Galih Lesmana;5;15;0;7;0;0.0;7;9;7;11;61.0;1;600000;Tidak Miskin;0
+Hilda Paramitha;5;9;6;5;0;0.0;7;9;7;11;59.0;1;750000;Tidak Miskin;0
+Prameswari Hidayani;5;0;0;5;0;8.0;0;0;7;0;25.0;26;350000;Miskin;1
+Livia Puspitasari;5;0;0;0;0;8.0;7;9;7;0;36.0;9;400000;Miskin;1
+Hendra Permadi;5;9;6;0;0;8.0;7;9;0;11;55.0;1;800000;Tidak Miskin;0
+Hana Putri;5;0;6;5;0;0.0;7;9;7;11;50.0;2;450000;Miskin;1
+Oktaviani Maheswari;5;0;6;7;0;0.0;0;9;0;0;27.0;22;600000;Tidak Miskin;0
+Oka Ramadhan;5;0;6;5;8;8.0;7;9;0;0;48.0;3;750000;Tidak Miskin;0
+Rian Ardian;5;9;6;0;0;8.0;7;0;0;0;35.0;10;600000;Tidak Miskin;0
+Gita Kusumawati;5;9;0;0;0;8.0;7;9;7;11;56.0;1;750000;Tidak Miskin;0
+Hendra Permadi;5;9;6;7;0;8.0;0;9;0;11;55.0;1;450000;Miskin;1
+Mira Hidayani;5;9;0;5;0;8.0;0;9;7;0;43.0;5;550000;Tidak Miskin;0
+Dimas Ananda;5;24;0;5;0;8.0;7;0;0;0;49.0;2;400000;Miskin;1
+Lutfi Fadillah;5;15;6;5;0;0.0;7;0;7;11;56.0;1;550000;Tidak Miskin;0
+Vino Surya;5;9;6;7;8;0.0;7;0;7;0;49.0;2;700000;Tidak Miskin;0
+Amara Wulandari;5;15;6;0;0;0.0;0;9;0;0;35.0;10;650000;Tidak Miskin;0
+Elisa Utari;5;9;0;0;8;0.0;7;9;7;0;45.0;4;400000;Miskin;1
+Darma Gunawan;5;15;0;7;0;8.0;0;9;7;11;62.0;1;400000;Miskin;1
+Uli Permata;5;9;0;0;8;0.0;7;0;7;0;36.0;9;650000;Tidak Miskin;0
+Rina Kusumawati;5;15;6;5;0;0.0;7;0;7;11;56.0;1;350000;Miskin;1
+Lutfi Utomo;5;9;0;7;8;8.0;7;9;0;11;64.0;0;450000;Miskin;1
+Aurora Hidayani;5;9;6;7;0;8.0;0;9;7;11;62.0;1;400000;Miskin;1
+Taufik Pratama;5;9;6;0;8;8.0;7;0;7;0;50.0;2;650000;Tidak Miskin;0
+Jasmine Aulia;5;0;0;7;0;8.0;7;0;7;0;34.0;11;450000;Miskin;1
+Bayu Ardian;5;9;6;7;8;8.0;7;9;7;0;66.0;0;400000;Miskin;1
+Putri Permata;5;9;0;5;0;8.0;0;9;0;0;36.0;9;450000;Miskin;1
+Wira Firmansyah;5;15;0;7;0;0.0;0;0;7;0;34.0;11;450000;Miskin;1
+Rafi Rahman;5;24;0;7;0;0.0;7;0;7;0;50.0;2;550000;Tidak Miskin;0
+Ivan Simanjuntak;5;24;0;7;0;8.0;0;0;0;11;55.0;1;550000;Tidak Miskin;0
+Rizky Hakim;5;15;0;0;8;8.0;7;9;7;0;59.0;1;800000;Tidak Miskin;0
+Lestari Permadiyah;5;24;0;5;8;0.0;7;0;0;11;60.0;1;450000;Miskin;1
+Eko Pradana;5;15;6;5;8;8.0;0;0;7;11;65.0;0;350000;Miskin;1
+Bunga Rosalina;5;9;0;0;0;8.0;0;0;7;0;29.0;18;450000;Miskin;1
+Teguh Mahendra;5;15;0;0;8;8.0;0;9;7;11;63.0;1;650000;Tidak Miskin;0
+Zara Rahmawati;5;15;0;7;0;8.0;7;0;0;11;53.0;2;450000;Miskin;1
+Yoga Pratama;5;15;6;0;8;8.0;7;9;0;0;58.0;1;600000;Tidak Miskin;0
+Anita Sundari;5;9;0;7;0;8.0;0;0;7;0;36.0;9;700000;Tidak Miskin;0
+Livia Dwiyanti;5;0;6;0;0;0.0;7;0;0;0;18.0;43;400000;Miskin;1
+Lestari Prameswari;5;24;0;7;8;8.0;0;0;7;0;59.0;1;350000;Miskin;1
+Melati Santika;5;0;0;0;0;0.0;0;0;0;0;5.0;76;500000;Tidak Miskin;0
+Qisya Septiani;5;0;6;5;0;0.0;0;0;0;11;27.0;22;450000;Miskin;1
+Raisa Hidayani;5;24;6;0;0;8.0;0;0;0;0;43.0;5;400000;Miskin;1
+Oktaviani Maheswari;5;15;6;0;0;8.0;7;0;7;11;59.0;1;400000;Miskin;1
+Lukman Kusuma;5;15;0;5;0;0.0;0;9;7;0;41.0;6;500000;Tidak Miskin;0
+Pradipta Ramdani;5;9;6;0;0;0.0;0;9;7;0;36.0;9;600000;Tidak Miskin;0
+Jasmine Amanah;5;15;6;0;8;0.0;0;0;7;11;52.0;2;700000;Tidak Miskin;0
+Fitri Setiawati;5;0;0;7;0;0.0;7;9;0;0;28.0;20;600000;Tidak Miskin;0
+Kevin Nugraha;5;9;0;0;0;8.0;0;9;0;11;42.0;5;650000;Tidak Miskin;0
+Rafi Wicaksono;5;15;6;0;0;8.0;7;0;0;0;41.0;6;400000;Miskin;1
+Jasmine Setiawati;5;15;6;0;0;8.0;7;9;0;11;61.0;1;800000;Tidak Miskin;0
+Wulan Sundari;5;9;0;7;0;8.0;0;0;0;11;40.0;6;700000;Tidak Miskin;0
+Vino Permadi;5;0;6;5;0;8.0;0;0;0;11;35.0;10;700000;Tidak Miskin;0
+Lukman Rachman;5;24;6;0;8;0.0;7;9;7;0;66.0;0;800000;Tidak Miskin;0
+Hana Permadiyah;5;24;0;5;0;0.0;7;9;7;11;68.0;0;450000;Miskin;1
+Taufik Santoso;5;9;6;5;0;8.0;7;0;7;0;47.0;3;450000;Miskin;1
+Nanda Mahendra;5;15;6;0;0;8.0;7;9;0;0;50.0;2;400000;Miskin;1
+Livia Fadilah;5;9;0;5;0;8.0;0;0;7;11;45.0;4;450000;Miskin;1
+Darma Prasetyo;5;9;0;5;0;0.0;7;0;0;0;26.0;24;700000;Tidak Miskin;0
+Putra Adiputra;5;24;0;7;0;0.0;0;9;0;0;45.0;4;450000;Miskin;1
+Clara Salsabila;5;15;0;5;8;8.0;7;0;7;11;66.0;0;400000;Miskin;1
+Fitri Indrawati;5;9;0;5;0;8.0;0;0;7;0;34.0;11;450000;Miskin;1
+Aditya Prasetyo;5;9;0;5;0;8.0;7;9;7;11;61.0;1;450000;Miskin;1
+Fajar Syahputra;5;9;0;0;0;8.0;7;0;0;11;40.0;6;700000;Tidak Miskin;0
+Aldo Mahendra;5;9;6;5;0;8.0;7;9;7;0;56.0;1;400000;Miskin;1
+Darma Wirawan;5;0;0;7;0;0.0;7;0;0;11;30.0;17;400000;Miskin;1
+Utama Ariyanto;5;24;6;7;8;8.0;7;0;0;0;65.0;0;750000;Tidak Miskin;0
+Yolanda Aulia;5;0;6;0;0;8.0;0;9;7;11;46.0;3;450000;Miskin;1
+Vina Kirana;5;9;0;0;0;8.0;7;0;0;11;40.0;6;400000;Miskin;1
+Hanif Adinata;5;15;6;5;0;8.0;0;0;0;0;39.0;7;800000;Tidak Miskin;0
+Ayu Permata;5;0;0;5;0;8.0;7;0;7;0;32.0;14;500000;Tidak Miskin;0
+Winda Widyasari;5;0;6;5;8;0.0;7;0;0;0;31.0;15;350000;Miskin;1
+Mira Puspitasari;5;15;6;7;0;8.0;7;0;7;0;55.0;1;700000;Tidak Miskin;0
+Selvi Ayuningrum;5;15;6;5;8;8.0;7;9;7;0;70.0;0;550000;Tidak Miskin;0
+Lutfi Susanto;5;9;0;0;8;0.0;7;0;7;11;47.0;3;400000;Miskin;1
+Jessica Permata;5;9;0;7;8;0.0;7;0;7;11;54.0;1;400000;Miskin;1
+Veronica Nuraini;5;15;0;0;0;8.0;7;9;7;11;62.0;1;450000;Miskin;1
+Gita Utari;5;9;0;5;8;0.0;7;0;0;11;45.0;4;650000;Tidak Miskin;0
+Wulan Suhartini;5;9;0;0;0;0.0;0;9;7;11;41.0;6;700000;Tidak Miskin;0
+Hana Rosalina;5;15;6;7;0;0.0;7;9;7;0;56.0;1;500000;Tidak Miskin;0
+Tania Rahmayanti;5;9;6;5;0;8.0;7;0;0;0;40.0;6;600000;Tidak Miskin;0
+Oscar Ardian;5;15;0;7;8;0.0;0;0;7;0;42.0;5;400000;Miskin;1
+Daniel Wicaksono;5;15;0;7;8;8.0;0;0;7;0;50.0;2;550000;Tidak Miskin;0
+Sari Susilowati;5;0;0;7;0;8.0;0;0;7;0;27.0;22;600000;Tidak Miskin;0
+Hendra Wibisono;5;15;0;5;0;8.0;7;9;7;0;56.0;1;700000;Tidak Miskin;0
+Uli Permata;5;9;0;0;0;8.0;0;9;7;0;38.0;8;650000;Tidak Miskin;0
+Gita Anjani;5;9;0;0;0;0.0;7;9;7;0;37.0;8;700000;Tidak Miskin;0
+Zain Hartono;5;9;0;0;0;0.0;7;9;7;0;37.0;8;400000;Miskin;1
+Bayu Wibisono;5;0;0;5;8;0.0;7;9;0;11;45.0;4;550000;Tidak Miskin;0
+Taufik Santoso;5;24;0;7;8;0.0;7;0;7;0;58.0;1;500000;Tidak Miskin;0
+Fahri Hakim;5;9;6;0;8;8.0;7;0;7;11;61.0;1;700000;Tidak Miskin;0
+Rafi Wibowo;5;9;6;5;0;8.0;7;9;0;11;60.0;1;500000;Tidak Miskin;0
+Vina Septiani;5;15;0;5;0;8.0;7;9;7;11;67.0;0;400000;Miskin;1
+Tiara Amanah;5;15;0;7;8;0.0;7;9;0;11;62.0;1;700000;Tidak Miskin;0
+Hanif Prasetyo;5;0;0;5;8;8.0;0;9;0;11;46.0;3;400000;Miskin;1
+Bima Gunarto;5;15;6;5;0;0.0;7;9;7;11;65.0;0;700000;Tidak Miskin;0
+Qisya Septiani;5;9;6;5;0;8.0;7;0;7;0;47.0;3;450000;Miskin;1
+Bima Wibisono;5;9;0;5;0;8.0;7;0;0;11;45.0;4;450000;Miskin;1
+Zaki Farhan;5;0;0;7;8;8.0;0;0;7;0;35.0;10;400000;Miskin;1
+Candra Ramadhan;5;9;6;0;0;8.0;7;0;7;11;53.0;2;750000;Tidak Miskin;0
+Nisa Kirana;5;9;0;5;0;8.0;0;0;0;0;27.0;22;400000;Miskin;1
+Teguh Ananda;5;15;0;0;8;8.0;7;0;7;0;50.0;2;800000;Tidak Miskin;0
+Indah Hartati;5;0;0;5;8;8.0;0;0;0;11;37.0;8;650000;Tidak Miskin;0
+Kevin Wirawan;5;9;0;7;0;8.0;7;9;7;0;52.0;2;650000;Tidak Miskin;0
+Jasmine Amanah;5;9;0;0;8;0.0;7;0;0;11;40.0;6;450000;Miskin;1
+Yusuf Wirawan;5;9;0;0;0;8.0;7;9;0;11;49.0;2;450000;Miskin;1
+Michael Surya;5;9;6;5;0;8.0;0;0;7;0;40.0;6;400000;Miskin;1
+Amara Handayani;5;0;0;0;0;8.0;0;0;7;11;31.0;15;400000;Miskin;1
+Yoga Febriansyah;5;0;0;0;0;8.0;0;9;7;0;29.0;18;350000;Miskin;1
+Galih Kusuma;5;0;0;5;0;8.0;0;0;7;0;25.0;26;400000;Miskin;1
+Eko Rahardian;5;0;6;7;8;8.0;7;9;7;11;68.0;0;700000;Tidak Miskin;0
+Hana Cahyani;5;9;0;5;0;8.0;7;0;7;0;41.0;6;800000;Tidak Miskin;0
+Arjuna Kusuma;5;0;6;0;0;8.0;0;9;0;0;28.0;20;400000;Miskin;1
+Syahrul Gunawan;5;0;0;0;0;8.0;0;0;7;0;20.0;37;550000;Tidak Miskin;0
+Jasmine Santika;5;9;0;5;8;0.0;7;0;7;11;52.0;2;500000;Tidak Miskin;0
+Galih Surya;5;15;0;5;8;0.0;0;0;7;0;40.0;6;750000;Tidak Miskin;0
+Hanif Gunawan;5;15;0;7;8;0.0;7;0;0;0;42.0;5;450000;Miskin;1
+Kurnia Saputra;5;15;0;7;0;8.0;0;0;7;0;42.0;5;400000;Miskin;1
+Aurora Suhartini;5;9;6;0;0;8.0;7;0;0;0;35.0;10;650000;Tidak Miskin;0
+Bima Gunawan;5;0;0;7;0;0.0;7;0;0;0;19.0;40;600000;Tidak Miskin;0
+Lutfi Ridwan;5;9;6;5;0;0.0;7;9;7;11;59.0;1;700000;Tidak Miskin;0
+Ayu Ayuningrum;5;15;0;7;8;8.0;0;9;7;0;59.0;1;700000;Tidak Miskin;0
+Intan Rosmala;5;0;0;7;8;8.0;7;0;0;0;35.0;10;600000;Tidak Miskin;0
+Qisya Fauziah;5;9;6;7;0;8.0;7;9;7;0;58.0;1;450000;Miskin;1
+Dina Prameswari;5;24;6;0;0;0.0;7;0;7;0;49.0;2;500000;Tidak Miskin;0
+Kurnia Simanjuntak;5;0;0;7;0;8.0;0;9;0;11;40.0;6;450000;Miskin;1
+Lestari Prameswari;5;9;0;7;8;0.0;0;9;0;0;38.0;8;550000;Tidak Miskin;0
+Livia Fadilah;5;15;0;5;0;8.0;0;9;7;0;49.0;2;400000;Miskin;1
+Tania Anggraini;5;9;0;5;8;8.0;7;9;0;0;51.0;2;750000;Tidak Miskin;0
+Candra Pratama;5;0;6;0;0;8.0;0;0;7;11;37.0;8;450000;Miskin;1
+Anita Andriani;5;0;0;5;8;0.0;0;0;0;11;29.0;18;600000;Tidak Miskin;0
+Utama Ardian;5;0;0;7;8;8.0;7;9;0;0;44.0;4;400000;Miskin;1
+Olivia Fitria;5;9;6;7;0;8.0;7;9;0;11;62.0;1;350000;Miskin;1
+Fanny Kartika;5;0;0;7;0;0.0;0;0;7;0;19.0;40;600000;Tidak Miskin;0
+Cahyo Febriansyah;5;15;6;5;0;8.0;7;0;7;11;64.0;0;350000;Miskin;1
+Lutfi Kusuma;5;0;0;5;0;8.0;7;0;0;0;25.0;26;650000;Tidak Miskin;0
+Eko Surya;5;9;6;0;8;8.0;7;9;0;0;52.0;2;600000;Tidak Miskin;0
+Raisa Rosmala;5;15;0;0;0;0.0;7;0;7;0;34.0;11;400000;Miskin;1
+Ayu Wijayanti;5;15;0;5;0;8.0;7;9;0;11;60.0;1;350000;Miskin;1
+Darma Febriansyah;5;24;0;0;8;8.0;0;0;7;0;52.0;2;650000;Tidak Miskin;0
+Bima Hidayat;5;15;6;0;8;8.0;7;9;0;11;69.0;0;400000;Miskin;1
+Bagus Purnama;5;9;6;7;0;0.0;7;0;7;11;52.0;2;650000;Tidak Miskin;0
+Bagus Purnama;5;9;6;5;0;8.0;7;9;0;0;49.0;2;400000;Miskin;1
+Tania Prameswari;5;9;0;0;0;8.0;7;9;7;0;45.0;4;350000;Miskin;1
+Amara Fitria;5;0;0;0;0;0.0;7;0;0;0;12.0;59;400000;Miskin;1
+Tania Aulia;5;15;6;0;0;8.0;7;0;7;11;59.0;1;550000;Tidak Miskin;0
+Rama Hartono;5;9;0;0;0;8.0;7;0;0;11;40.0;6;400000;Miskin;1
+Zara Paramitha;5;9;6;0;0;8.0;0;9;7;0;44.0;4;700000;Tidak Miskin;0
+Gita Mulyani;5;15;6;0;8;8.0;7;9;0;11;69.0;0;400000;Miskin;1
+Darma Saputra;5;0;0;5;0;0.0;7;0;0;11;28.0;20;400000;Miskin;1
+Jessica Santika;5;0;6;5;0;8.0;7;9;0;11;51.0;2;400000;Miskin;1
+Clara Lestari;5;0;6;5;0;0.0;0;0;0;11;27.0;22;550000;Tidak Miskin;0
+Fahri Simanjuntak;5;9;0;5;0;8.0;0;0;0;0;27.0;22;400000;Miskin;1
+Tania Ayuningrum;5;0;0;7;0;0.0;7;9;0;0;28.0;20;450000;Miskin;1
+Nanda Mahendra;5;0;6;7;0;8.0;7;9;7;0;49.0;2;550000;Tidak Miskin;0
+Darma Saputra;5;15;0;5;0;8.0;0;0;7;11;51.0;2;800000;Tidak Miskin;0
+Ayu Ayuningrum;5;15;6;5;0;0.0;7;9;7;0;54.0;1;700000;Tidak Miskin;0
+Oktaviani Fitria;5;9;0;5;8;8.0;7;9;7;0;58.0;1;400000;Miskin;1
+Ilham Ridwan;5;0;6;0;0;8.0;7;0;7;11;44.0;4;600000;Tidak Miskin;0
+Indah Kusumawati;5;9;6;0;8;8.0;0;9;0;0;45.0;4;350000;Miskin;1
+Nisa Dewanti;5;15;0;7;0;8.0;7;0;0;0;42.0;5;700000;Tidak Miskin;0
+Lestari Kartika;5;9;0;0;8;8.0;7;9;0;0;46.0;3;700000;Tidak Miskin;0
+Tania Rahmayanti;5;15;0;0;8;8.0;7;0;7;0;50.0;2;400000;Miskin;1
+Bunga Kirana;5;0;0;7;0;0.0;0;0;7;11;30.0;17;400000;Miskin;1
+Hendra Rasyid;5;15;6;0;8;8.0;7;9;7;0;65.0;0;600000;Tidak Miskin;0
+Galih Kusuma;5;0;0;7;8;0.0;7;0;7;0;34.0;11;600000;Tidak Miskin;0
+Aurora Sundari;5;9;0;7;0;0.0;7;9;7;11;55.0;1;600000;Tidak Miskin;0
+Yusuf Wirawan;5;0;0;5;0;8.0;0;9;0;0;27.0;22;600000;Tidak Miskin;0
+Zara Permata;5;15;0;5;0;0.0;7;9;7;11;59.0;1;600000;Tidak Miskin;0
+Indah Suhartini;5;15;0;5;8;8.0;7;9;7;0;64.0;0;700000;Tidak Miskin;0
+Jasmine Hartati;5;15;0;7;8;0.0;7;0;7;11;60.0;1;400000;Miskin;1
+Syahrul Purnama;5;9;0;7;0;8.0;0;9;7;0;45.0;4;400000;Miskin;1
+Zaki Susanto;5;15;6;7;0;8.0;7;0;0;0;48.0;3;450000;Miskin;1
+Julian Maulana;5;0;0;0;0;8.0;7;9;7;11;47.0;3;650000;Tidak Miskin;0
+Hilda Paramitha;5;24;0;0;8;0.0;7;9;7;11;71.0;0;750000;Tidak Miskin;0
+Anita Andayani;5;15;6;5;8;8.0;0;9;7;11;74.0;0;650000;Tidak Miskin;0
+Olivia Kirana;5;0;0;5;0;0.0;0;0;7;0;17.0;45;350000;Miskin;1
+Syahrul Rahardian;5;24;0;5;0;0.0;7;0;7;11;59.0;1;450000;Miskin;1
+Evan Firmansyah;5;9;0;5;8;0.0;7;0;7;11;52.0;2;400000;Miskin;1
+Tiara Dewanti;5;0;0;5;0;0.0;7;0;0;0;17.0;45;500000;Tidak Miskin;0
+Naufal Pratama;5;0;0;7;8;8.0;7;9;0;11;55.0;1;450000;Miskin;1
+Hanif Pradana;5;0;6;5;8;8.0;7;9;0;11;59.0;1;400000;Miskin;1
+Yusuf Prawira;5;0;0;0;8;0.0;0;9;7;0;29.0;18;350000;Miskin;1
+Olivia Andriani;5;24;6;0;0;8.0;7;9;7;0;66.0;0;650000;Tidak Miskin;0
+Jasmine Hartati;5;9;0;7;8;0.0;7;9;0;11;56.0;1;550000;Tidak Miskin;0
+Joko Wijaya;5;0;0;0;0;0.0;7;0;7;0;19.0;40;450000;Miskin;1
+Daniel Kusuma;5;0;6;5;0;8.0;7;0;0;11;42.0;5;700000;Tidak Miskin;0
+Lukman Gunarto;5;15;0;0;0;0.0;0;9;7;11;47.0;3;600000;Tidak Miskin;0
+Zara Paramitha;5;0;0;0;8;8.0;7;9;0;0;37.0;8;400000;Miskin;1
+Syahrul Fadillah;5;9;6;5;8;8.0;7;0;7;11;66.0;0;700000;Tidak Miskin;0
+Aditya Maulana;5;9;0;5;0;0.0;0;9;0;0;28.0;20;500000;Tidak Miskin;0
+Ivan Ridwan;5;9;6;0;0;8.0;0;9;7;11;55.0;1;750000;Tidak Miskin;0
+Ilham Hakim;5;15;0;5;0;8.0;0;9;7;11;60.0;1;800000;Tidak Miskin;0
+Jasmine Hidayani;5;9;0;0;8;0.0;7;0;0;0;29.0;18;800000;Tidak Miskin;0
+Galih Setiawan;5;9;0;5;0;0.0;7;9;7;0;42.0;5;450000;Miskin;1
+Dimas Kusuma;5;24;6;5;0;0.0;7;9;7;0;63.0;1;450000;Miskin;1
+Utama Ariyanto;5;9;0;0;0;8.0;0;9;7;11;49.0;2;500000;Tidak Miskin;0
+Indah Kartika;5;9;0;5;0;8.0;7;0;7;0;41.0;6;400000;Miskin;1
+Zain Gunawan;5;15;0;5;8;8.0;7;0;7;0;55.0;1;650000;Tidak Miskin;0
+Putra Rohman;5;0;6;5;0;0.0;7;0;7;0;30.0;17;650000;Tidak Miskin;0
+Kurnia Ramdani;5;15;0;5;0;8.0;0;0;7;0;40.0;6;350000;Miskin;1
+Hana Salsabila;5;15;0;5;8;8.0;7;0;0;11;59.0;1;400000;Miskin;1
+Bagus Hakim;5;0;0;5;0;0.0;0;0;7;0;17.0;45;750000;Tidak Miskin;0
+Qisya Syafira;5;9;0;0;0;0.0;0;0;0;0;14.0;54;400000;Miskin;1
+Kurnia Fadillah;5;24;0;0;0;8.0;7;9;0;0;53.0;2;400000;Miskin;1
+Wira Farhan;5;15;0;5;8;8.0;7;9;7;0;64.0;0;750000;Tidak Miskin;0
+Jasmine Aulia;5;9;6;5;8;8.0;7;9;0;0;57.0;1;700000;Tidak Miskin;0
+Raisa Wijayanti;5;9;6;7;8;0.0;7;9;0;0;51.0;2;550000;Tidak Miskin;0
+Rizky Halim;5;9;6;5;8;8.0;7;9;7;0;64.0;0;400000;Miskin;1
+Clara Paramitha;5;9;0;0;8;0.0;0;0;7;0;29.0;18;650000;Tidak Miskin;0
+Vino Adinata;5;0;6;5;0;8.0;0;0;7;0;31.0;15;600000;Tidak Miskin;0
+Aurora Rosalina;5;9;0;0;8;8.0;0;9;7;0;46.0;3;700000;Tidak Miskin;0
+Galih Pratama;5;9;0;7;0;8.0;0;0;0;0;29.0;18;450000;Miskin;1
+Nadia Andriani;5;9;0;0;0;0.0;0;0;7;0;21.0;35;550000;Tidak Miskin;0
+Indah Putri;5;0;0;5;0;8.0;0;9;0;0;27.0;22;650000;Tidak Miskin;0
+Joko Ardian;5;15;6;7;0;8.0;0;0;7;0;48.0;3;500000;Tidak Miskin;0
+Gilang Rahardian;5;0;6;0;0;8.0;0;9;0;11;39.0;7;700000;Tidak Miskin;0
+Livia Dwiyanti;5;15;0;0;0;0.0;7;0;0;0;27.0;22;500000;Tidak Miskin;0
+Sari Wijayanti;5;9;0;0;8;0.0;0;9;0;0;31.0;15;450000;Miskin;1
+Winda Amanah;5;0;0;0;0;8.0;7;9;0;0;29.0;18;400000;Miskin;1
+Taufik Dewantara;5;0;0;0;8;0.0;7;0;0;0;20.0;37;600000;Tidak Miskin;0
+Nanda Mahendra;5;9;0;5;0;8.0;7;9;0;11;54.0;1;500000;Tidak Miskin;0
+Candra Maulana;5;0;6;7;0;8.0;0;9;7;0;42.0;5;750000;Tidak Miskin;0
+Hilda Susilowati;5;0;0;7;0;8.0;7;9;0;0;36.0;9;450000;Miskin;1
+Kevin Nugraha;5;15;0;7;0;8.0;7;0;0;0;42.0;5;400000;Miskin;1
+Rafi Firmansyah;5;9;0;0;0;0.0;7;0;7;0;28.0;20;800000;Tidak Miskin;0
+Joko Dewantara;5;15;0;5;0;8.0;0;9;7;0;49.0;2;450000;Miskin;1
+Jasmine Salsabila;5;0;6;5;0;0.0;0;9;7;0;32.0;14;400000;Miskin;1
+Ivan Utomo;5;9;6;0;8;8.0;7;9;7;0;59.0;1;500000;Tidak Miskin;0
+Erika Paramitha;5;0;6;5;0;0.0;0;9;0;11;36.0;9;400000;Miskin;1
+Michael Rohman;5;24;6;5;0;8.0;0;9;7;0;64.0;0;450000;Miskin;1
+Aldo Mahendra;5;15;6;5;0;8.0;7;9;7;11;73.0;0;450000;Miskin;1
+Kayla Pertiwi;5;15;6;0;8;8.0;0;9;0;11;62.0;1;450000;Miskin;1
+Putra Firmansyah;5;15;0;5;8;8.0;7;9;0;0;57.0;1;400000;Miskin;1
+Uli Permata;5;0;6;7;0;8.0;0;9;7;0;42.0;5;400000;Miskin;1
+Gilang Santoso;5;24;0;5;8;8.0;7;9;7;0;73.0;0;450000;Miskin;1
+Hanif Adinata;5;15;6;7;0;8.0;7;0;0;0;48.0;3;750000;Tidak Miskin;0
+Andra Setiawan;5;24;0;5;0;8.0;7;0;7;11;67.0;0;600000;Tidak Miskin;0
+Mira Fitria;5;24;0;5;0;8.0;7;0;0;0;49.0;2;350000;Miskin;1
+Qiana Fitria;5;0;0;0;0;8.0;0;0;7;0;20.0;37;600000;Tidak Miskin;0
+Galih Surya;5;24;6;7;8;8.0;7;0;7;0;72.0;0;650000;Tidak Miskin;0
+Teguh Ananda;5;24;0;5;0;0.0;0;9;0;0;43.0;5;400000;Miskin;1
+Wulan Suhartini;5;0;0;5;8;8.0;0;0;7;0;33.0;13;650000;Tidak Miskin;0
+Ayu Putri;5;0;6;5;8;8.0;7;9;7;0;55.0;1;600000;Tidak Miskin;0
+Reza Ariyanto;5;9;6;0;8;8.0;0;9;0;11;56.0;1;700000;Tidak Miskin;0
+Prameswari Anggraini;5;0;6;0;0;0.0;0;0;7;11;29.0;18;800000;Tidak Miskin;0
+Ivan Ananda;5;0;0;5;8;8.0;0;9;0;0;35.0;10;450000;Miskin;1
+Fitri Setiawati;5;0;6;5;8;0.0;7;0;7;11;49.0;2;400000;Miskin;1
+Eko Utomo;5;24;0;0;8;0.0;7;9;7;0;60.0;1;400000;Miskin;1
+Selvi Lestari;5;15;0;0;0;0.0;7;9;0;11;47.0;3;600000;Tidak Miskin;0
+Fanny Dewanti;5;9;0;5;8;8.0;7;9;7;0;58.0;1;550000;Tidak Miskin;0
+Faris Surya;5;15;6;7;0;8.0;7;9;7;0;64.0;0;400000;Miskin;1
+Naufal Wibowo;5;15;0;0;8;8.0;7;9;0;0;52.0;2;700000;Tidak Miskin;0
+Mira Paramitha;5;24;0;5;0;0.0;7;0;7;0;48.0;3;450000;Miskin;1
+Prameswari Setiawati;5;0;0;5;0;8.0;7;0;7;11;43.0;5;450000;Miskin;1
+Kurnia Saputra;5;15;0;5;8;8.0;0;0;7;0;48.0;3;400000;Miskin;1
+Zara Rosalina;5;9;6;5;0;8.0;7;9;0;0;49.0;2;350000;Miskin;1
+Olivia Mulyani;5;15;0;5;0;0.0;0;0;7;11;43.0;5;550000;Tidak Miskin;0
+Anita Andayani;5;15;0;5;0;0.0;7;9;7;0;48.0;3;400000;Miskin;1
+Candra Fadillah;5;9;0;7;0;8.0;0;9;0;0;38.0;8;450000;Miskin;1
+Kurnia Hidayat;5;15;0;5;0;8.0;7;9;0;11;60.0;1;700000;Tidak Miskin;0
+Gita Paramitha;5;9;6;5;0;8.0;7;0;7;0;47.0;3;500000;Tidak Miskin;0
+Vino Permadi;5;15;0;5;8;8.0;0;9;0;0;50.0;2;450000;Miskin;1
+Taufik Nugraha;5;9;0;5;0;0.0;7;0;0;0;26.0;24;400000;Miskin;1
+Rafi Pratama;5;0;0;7;8;8.0;7;0;0;0;35.0;10;400000;Miskin;1
+Teguh Mahendra;5;15;6;7;0;8.0;7;0;0;0;48.0;3;700000;Tidak Miskin;0
+Sari Kusumawati;5;24;0;5;0;8.0;0;9;7;11;69.0;0;500000;Tidak Miskin;0
+Raisa Fauziah;5;9;6;5;8;0.0;7;0;0;11;51.0;2;500000;Tidak Miskin;0
+Kayla Mulyani;5;24;6;7;0;8.0;7;9;7;11;84.0;0;550000;Tidak Miskin;0
+Dewi Fadilah;5;15;0;5;0;0.0;0;9;0;0;34.0;11;600000;Tidak Miskin;0
+Vino Adinata;5;15;6;0;0;0.0;7;9;0;11;53.0;2;350000;Miskin;1
+Nanda Setiawan;5;0;6;5;0;0.0;7;9;7;11;50.0;2;550000;Tidak Miskin;0
+Arjuna Kusuma;5;15;6;5;0;8.0;0;9;7;0;55.0;1;650000;Tidak Miskin;0
+Rian Purnama;5;9;6;5;0;8.0;0;9;7;11;60.0;1;500000;Tidak Miskin;0
+Andra Pradana;5;0;0;0;8;8.0;7;9;0;0;37.0;8;450000;Miskin;1
+Hana Putri;5;24;0;7;0;0.0;7;9;0;11;63.0;1;650000;Tidak Miskin;0
+Kurnia Hidayat;5;0;0;0;0;8.0;7;9;0;11;40.0;6;400000;Miskin;1
+Kevin Susanto;5;0;0;0;0;8.0;7;9;7;0;36.0;9;350000;Miskin;1
+Dewi Lestari;5;9;0;5;0;8.0;0;9;0;0;36.0;9;600000;Tidak Miskin;0
+Ilham Hidayat;5;9;6;5;0;8.0;7;9;7;0;56.0;1;800000;Tidak Miskin;0
+Bunga Kirana;5;24;0;5;0;8.0;0;0;7;0;49.0;2;450000;Miskin;1
+Uli Suryani;5;9;6;0;0;0.0;0;9;0;0;29.0;18;400000;Miskin;1
+Kartika Hidayani;5;9;0;0;0;8.0;7;9;7;11;56.0;1;400000;Miskin;1
+Jessica Sundari;5;9;0;7;0;8.0;7;0;0;0;36.0;9;400000;Miskin;1
+Nisa Suryani;5;0;0;5;0;8.0;7;9;7;0;41.0;6;400000;Miskin;1
+Hanif Nugraha;5;9;0;5;0;0.0;7;9;7;0;42.0;5;650000;Tidak Miskin;0
+Utama Ariyanto;5;15;0;5;0;8.0;7;0;7;0;47.0;3;550000;Tidak Miskin;0
+Aurora Aulia;5;9;0;0;0;8.0;7;9;0;0;38.0;8;600000;Tidak Miskin;0
+Hanif Utomo;5;24;6;0;0;8.0;0;9;7;11;70.0;0;400000;Miskin;1
+Wulan Hartati;5;24;0;7;0;8.0;7;0;7;11;69.0;0;400000;Miskin;1
+Gisella Setiawati;5;0;0;5;8;8.0;0;9;0;0;35.0;10;500000;Tidak Miskin;0
+Gisella Utari;5;24;0;5;0;8.0;7;0;0;0;49.0;2;450000;Miskin;1
+Candra Ramadhan;5;0;6;7;0;8.0;7;9;7;11;60.0;1;700000;Tidak Miskin;0
+Veronica Nuraini;5;24;0;7;0;0.0;7;9;7;0;59.0;1;550000;Tidak Miskin;0
+Lestari Permadiyah;5;9;0;5;8;8.0;7;9;0;0;51.0;2;400000;Miskin;1
+Gita Syafira;5;24;0;5;0;8.0;7;9;7;0;65.0;0;400000;Miskin;1
+Bagus Nugraha;5;0;6;0;8;8.0;7;0;0;0;34.0;11;550000;Tidak Miskin;0
+Mahesa Cahyono;5;9;6;0;8;8.0;7;0;7;11;61.0;1;400000;Miskin;1
+Reza Setiawan;5;24;0;0;0;8.0;7;9;0;0;53.0;2;350000;Miskin;1
+Hanif Wirawan;5;24;0;0;8;0.0;7;9;0;11;64.0;0;800000;Tidak Miskin;0
+Bunga Kartika;5;9;0;0;8;0.0;7;9;7;0;45.0;4;650000;Tidak Miskin;0
+Bayu Wibisono;5;0;0;0;0;8.0;7;9;0;0;29.0;18;450000;Miskin;1
+Rizky Hakim;5;15;0;5;0;0.0;7;9;7;0;48.0;3;700000;Tidak Miskin;0
+Eko Wicaksono;5;0;6;5;0;0.0;0;9;0;0;25.0;26;650000;Tidak Miskin;0
+Zaki Hartono;5;0;0;0;8;8.0;0;0;0;0;21.0;35;450000;Miskin;1
+Kevin Ramadhan;5;15;0;5;0;8.0;7;0;0;0;40.0;6;400000;Miskin;1
+Darma Santoso;5;0;0;5;8;8.0;7;0;0;11;44.0;4;700000;Tidak Miskin;0
+Elisa Kusumawati;5;9;0;7;8;0.0;7;9;0;0;45.0;4;600000;Tidak Miskin;0
+Bella Utari;5;0;0;5;0;8.0;0;0;0;11;29.0;18;800000;Tidak Miskin;0
+Evan Firmansyah;5;24;6;5;0;8.0;7;0;7;0;62.0;1;450000;Miskin;1
+Bagus Rasyid;5;0;0;5;0;0.0;0;0;0;0;10.0;64;700000;Tidak Miskin;0
+Faris Surya;5;24;0;7;0;8.0;7;0;7;0;58.0;1;650000;Tidak Miskin;0
+Kartika Hidayani;5;9;6;7;8;8.0;7;9;7;0;66.0;0;450000;Miskin;1
+Tania Permata;5;15;0;5;8;8.0;0;0;7;0;48.0;3;400000;Miskin;1
+Aditya Maulana;5;9;6;5;0;8.0;7;9;7;11;67.0;0;450000;Miskin;1
+Fitri Wijayanti;5;0;6;0;8;8.0;7;9;0;11;54.0;1;400000;Miskin;1
+Rina Astuti;5;9;0;7;8;8.0;7;0;7;0;51.0;2;700000;Tidak Miskin;0
+Hanif Prawira;5;9;6;0;8;8.0;7;9;0;0;52.0;2;350000;Miskin;1
+Hilda Andriani;5;24;0;5;0;8.0;0;9;7;0;58.0;1;750000;Tidak Miskin;0
+Veronica Hartati;5;9;0;0;0;8.0;7;0;7;0;36.0;9;350000;Miskin;1
+Veronica Nuraini;5;0;0;0;8;0.0;7;9;7;0;36.0;9;600000;Tidak Miskin;0
+Oscar Hidayat;5;15;0;5;0;0.0;7;0;7;0;39.0;7;400000;Miskin;1
+Citra Cahyani;5;0;0;5;0;8.0;7;0;7;0;32.0;14;700000;Tidak Miskin;0
+Tania Ayuningrum;5;15;0;5;0;0.0;7;0;7;0;39.0;7;450000;Miskin;1
+Tania Sundari;5;15;0;0;0;8.0;0;0;7;11;46.0;3;400000;Miskin;1
+Rafi Maulana;5;9;6;0;0;8.0;7;9;0;0;44.0;4;800000;Tidak Miskin;0
+Teguh Maulana;5;0;6;0;8;8.0;7;0;7;11;52.0;2;650000;Tidak Miskin;0
+Gilang Gunawan;5;0;0;5;8;0.0;0;0;7;11;36.0;9;350000;Miskin;1
+Hilda Fadilah;5;24;0;0;8;0.0;0;9;7;11;64.0;0;550000;Tidak Miskin;0
+Dewi Ayuningrum;5;9;6;5;0;8.0;7;9;7;11;67.0;0;350000;Miskin;1
+Fanny Nuraini;5;9;0;5;0;8.0;0;9;0;0;36.0;9;550000;Tidak Miskin;0
+Sari Astuti;5;24;0;5;0;0.0;7;9;0;0;50.0;2;400000;Miskin;1
+Aurora Aulia;5;15;0;5;8;8.0;0;9;7;0;57.0;1;450000;Miskin;1
+Fajar Wibowo;5;9;6;5;0;0.0;7;9;7;0;48.0;3;600000;Tidak Miskin;0
+Livia Saputri;5;0;0;5;0;0.0;7;9;7;0;33.0;13;350000;Miskin;1

@@ -1,0 +1,6 @@
+Metrik Evaluasi,Train Set (80%),Full Empirical Sample
+Accuracy,0.8847,0.8174
+Precision (Miskin),0.8230,0.7647
+Recall (Miskin),0.9394,0.8421
+F1-Score (Miskin),0.8774,0.8015
+ROC-AUC Score,0.9614,0.8883
