@@ -42,7 +42,6 @@ poverty-classification-ppi-svm/
 │       └── Hasil Skoring.csv                        # Hasil skoring komposit & probabilitas kemiskinan
 ├── notebooks/
 │   ├── poverty_classification_ppi_svm.ipynb         # ⭐ Master Notebook riset & pemodelan lengkap
-│   └── archive_original_main.ipynb                  # Arsip kodingan skripsi asli (histori riset)
 ├── outputs/
 │   ├── figures/                                     # 8 Visualisasi grafik resolusi tinggi (300 DPI)
 │   │   ├── 01_ppi_score_distribution.png
